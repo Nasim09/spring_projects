@@ -1,21 +1,21 @@
 KEY CONCEPTS
 
-Output:
+Output: prints out the varible
 
-String:
+String: Strings in python are surrounded by either single quotation marks, or double quotation marks. string is used to make use to adj varible.
 
-(data Type):
+(data Type): Stores data that hold varibles like int.
 
-string literal:
+string literal: Text surrounded by single, double or triple quotes.
 
-String Concatenation:
+String Concatenation: Adds strings together using + or .format or f""
 
-(different ways):
+(different ways): +, .format or f""
 
-fString:
+fString: A literal string prefix that uses f infront of the sting
 
-variables:
+variables: Containers for storing values
 
-input:
+input: to fill in madlib 
 
-Comments:
+Comments: words that stay in the code with a hashtag but dont affect the code
